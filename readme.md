@@ -1,12 +1,13 @@
 # This is second local file 
 Github repo
+<ul>
+    <li>Clone</li>
 
-Clone
+    <li>Changes</li>
 
-Changes
+    <li>Add</li>
 
-Add
+    <li>Commit</li>
 
-Commit
-
-Push
+    <li>Push</li>
+</ul>
